@@ -1,5 +1,4 @@
 // hover effect js -> scroll to bottom
-<script>
 !(function (e, t) {
   "object" == typeof exports && "undefined" != typeof module
     ? (module.exports = t(require("three"), require("gsap/TweenMax")))
@@ -169,4 +168,3 @@
     }
   );
 });
-</script>
